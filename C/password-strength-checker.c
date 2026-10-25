@@ -3,7 +3,7 @@
 #include <ctype.h>
 
 int main() {
-    char password[100];
+    char password[50];
     int upper = 0, lower = 0, digit = 0, symbol = 0;
 
     printf("Enter your password: ");
