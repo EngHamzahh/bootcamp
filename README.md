@@ -21,14 +21,14 @@ Follow these steps sequentially to run the program locally:
 2. Open your terminal or command prompt inside the project folder.
 3. Compile the source file using a C compiler (like GCC):
    ```bash
-   gcc password-strength-checker.c -o password_checker
+   gcc password-strength-checker.c -o password-strength-checker
    ```
 4. Execute the compiled program:
    * **Linux/macOS:**
      ```bash
-     ./password_checker
+     ./password-strength-checker
      ```
    * **Windows:**
      ```cmd
-     password_checker.exe
+     password-strength-checker.exe
      ```
